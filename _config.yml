@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Andrey Lukin
+bio: Computer Science Senior at Georgia Tech
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -54,7 +54,7 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-    johndoe:
+    andreylukin:
         name: Andrey Lukin
         bio: Computer Science Senior at Georgia Tech
         external-image: false
