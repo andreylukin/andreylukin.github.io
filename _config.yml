@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://andreylukin.dev
+url: https://www.andreylukin.dev
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -29,9 +29,9 @@ permalink: /:title/
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+# disqus:
+#   shortname: mydisqus # enter this from your disqus account
+#   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: andrey.lukin.902
@@ -58,7 +58,7 @@ authors:
         bio: Computer Science Senior at Georgia Tech
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        # twitter: johndoe
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
