@@ -3,7 +3,7 @@ layout: compress
 ---
 <!DOCTYPE html>
 <html lang="en">
-<head>
+<head rel="shortcut icon" href="assets/images/shortcuticon.ico">
 
     {% if site.analytics-google %}
         {% include analytics-google.html %}
@@ -19,7 +19,7 @@ layout: compress
     <meta property="og:type" content="profile">
 
     {% seo %}
-    
+
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
