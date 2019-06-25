@@ -44,4 +44,3 @@ P.S. Might have cut the phone number to save money.
 ### Where can I find it?
 
 You can find the project [here](https://github.com/andreylukin/textdiy)
-
