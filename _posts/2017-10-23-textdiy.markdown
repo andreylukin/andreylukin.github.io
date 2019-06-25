@@ -12,7 +12,7 @@ category: project
 externalLink: false
 ---
 
-<div style="text-align:center"><img src="../assets/images/text_diy.jpg" /></div>
+<!-- <div style="text-align:center"><img src="../assets/images/text_diy.jpg" /></div> -->
 
 **Summary** 
 
