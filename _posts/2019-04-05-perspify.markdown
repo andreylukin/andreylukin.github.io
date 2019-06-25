@@ -1,10 +1,10 @@
 ---
-title: "TextDiy"
+title: "Perspify"
 layout: post
 # date: 2016-01-23 22:10
 image: ../assets/images/text_diy.jpg
 headerImage: false
-season: Summer 2016
+season: March 2019
 projects: true
 work: false
 hidden: true # don't count this post in blog pagination
