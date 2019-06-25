@@ -1,0 +1,59 @@
+---
+title: "Zeppelin"
+layout: post
+# date: 2016-01-23 22:10
+image: ../assets/images/zeppelin1.jpg
+headerImage: false
+season: January 2018
+projects: true
+work: false
+hidden: true # don't count this post in blog pagination
+category: project
+externalLink: false
+---
+
+<div style="text-align:center"> <img src="../assets/images/zeppelin1.jpg"/></div>
+
+
+**Summary** 
+
+Competed in the PennApps Hackathon in. Won the Best Civil/Health Hack award, but also was a finalist for overall competition.
+
+* Created an app to help offset users' transportation CO2 emissions
+* Developed the app using React Native and SQLite to ensure cross-platform use, and used the Google Maps and animation APIs to create a very clean user interface
+
+---
+
+**Inspiration**
+
+30 percent of the total US carbon CO2 emissions were produced by the transportation sector. That's nearly 2 billion metric tons of CO2 per year that we send into the atmosphere.
+
+We need to do something and do it quickly since the Earth has already been feeling the effects of humankind on its well being: sea levels have risen, ocean temperatures increased, and global warming is a real threat. Luckily, non-profits like Cool Earth have already jumped on the problem, with the mission of reinvesting the donations they get into cleaner and greener energy sources. They calculated that for every tonne of CO2 that is being sent into the atmosphere, they can offset its negative effects with a donation of just $1.34 dollars.
+
+The initial idea for Zeppelin came through when we thought about how much it would cost to offset one flight-worth of CO2. After reading papers from different non-profits, we realized that a flight from Los Angeles to New York would cost only $4.22 per person. Who wouldn't want to help the Earth, greatly offset the carbon footprint, and do it for just a fraction of a cost of a normal ticket? We decided to make it easy for people to make this step forward, so we created Zeppelin.
+
+**What it does**
+
+Zeppelin has a plethora of different features that make it as easy as pressing a button to make a difference in today fight against Global Warming. So let's go through a scenario of someone who might use it after flying or driving in a car:
+
+1. Jake just landed in Atlanta with his flight from San Francisco, and by opening Zeppelin, facing the camera at his boarding pass, and pressing a button, he was quick to donate to the non-profits he knows can help his cause. Luckily, his credit card is stored securely on the app, so there is no need to do any extra typing.
+2. Reni is about to go on a road trip with his friends from New York City to Denver. By opening Zeppelin, typing in where they are going, and pressing the "Donate" button, Reni kept his mind at ease during the trip about his carbon footprint.
+
+We can scan boarding passes, calculate your CO2 emission by car and by plane, store your credit card for when you want to donate, and we can wire the money to companies like Cool Earth for you.
+
+---
+
+---
+
+### What did I use to build this?
+
+- React Native
+- SQLite
+- Stripe
+- Expo.io
+
+---
+
+### Where can I find it?
+
+You can find the Devpost [here](https://devpost.com/software/zeppelin) and the code [here](https://github.com/renisalcedo/zeppelin)

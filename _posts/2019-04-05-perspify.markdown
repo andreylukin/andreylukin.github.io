@@ -1,0 +1,36 @@
+---
+title: "TextDiy"
+layout: post
+# date: 2016-01-23 22:10
+image: ../assets/images/text_diy.jpg
+headerImage: false
+season: Summer 2016
+projects: true
+work: false
+hidden: true # don't count this post in blog pagination
+category: project
+externalLink: false
+---
+
+
+**Summary** 
+
+Competed in the Home Depot Hackathon on Oct 2017 in Midtown Atlanta. Won 2nd place overall.
+
+* Created an SMS chatbot that presents the user with DIY project inspirations, and the tools and the materials necessary to make them
+* Built a web crawler to collect building tutorials for hundreds of projects
+* Hosted the project on a DigitalOcean droplet, and had the backend running with Twilio, Flask, and PostgreSQL
+
+<div style="text-align:center"><img src="../assets/images/text_diy.jpg" /></div>
+---
+
+#What did I use to build this?
+
+- 
+- 
+- 
+
+
+---
+
+#Where can I find it?

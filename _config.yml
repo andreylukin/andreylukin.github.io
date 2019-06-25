@@ -71,12 +71,15 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 projects: true
 
+# if you don't need work, comment the *work* configs below
+work: true
+
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
