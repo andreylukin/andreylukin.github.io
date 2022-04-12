@@ -1,6 +1,6 @@
 # main text of home
 name: Andrey Lukin
-bio: Computer Science Senior at Georgia Tech
+bio: Software Engineer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: luk.andrey@gmail.com
 authors:
     andreylukin:
         name: Andrey Lukin
-        bio: Computer Science Senior at Georgia Tech
+        bio: Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
