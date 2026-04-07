@@ -6,79 +6,68 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-	Hi! My name is Andrey, and I'm a Software Engineer. I enjoy running, climbing, playing music, photography, 
-	and doing martial arts. I really like exploring new music and films, as well as unusual foods. 
-	Currently, I work in American Express where I am a fullstack developer on the OPEN team, which 
-	specializes in the small business credit card journey.
+	Hi! My name is Andrey, and I'm a Senior Software Engineer focused on building foundational backend
+	systems, platform infrastructure, and AI/LLM tooling. Based in Boston, I graduated from Georgia Tech
+	with a BS in Computer Science (Systems Architecture & AI) in 2019.
 </p>
 <p>
-	I enjoy building systems that rely on performance and require high levels of efficiency, and thats why my 
-	<a href="https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads">
-	threads</a> (fancy name for concentrations) at GT were System Architecture and AI when I graduated from 
-	in Dec 2019. I enjoy working on my own projects, competing in hackathons, and learning new things.
+	I've built core platform systems at startups like 7AI (agentic cybersecurity, backed by Greylock/CRV/Index),
+	shipped AI-powered services at SeekOut, and developed integrations at American Express. I enjoy working
+	on systems that demand performance and reliability, from Kubernetes infrastructure to LLM tooling.
 </p>
 <p>
-	I help run a non-profit with my family called <a href="http://sigmacamp.org/">SigmaCamp</a>,
-	which lets highschool experience high level of hands-on STEM with some of the smartest people
-	in the world, including Fields Medalist and Ivy League professors.
-</p>
-<p>
-	Recently, I've joined the 
-	<a href="https://greenpointchurch.org/hunger-program/">Greenpoint Reformed Church Hunger Program</a>, 
-	where I help with running the weekly food pantry and soup kitchen.
+	Outside of work, I'm into film, music, videogames and e-sports, exploring new cities, and running.
+	I also help run a non-profit with my family called <a href="http://sigmacamp.org/">SigmaCamp</a>,
+	which lets high schoolers experience hands-on STEM with some of the smartest people
+	in the world, including Fields Medalists and Ivy League professors.
 </p>
 
 <h2>Skills</h2>
 
-<h5>Programming Languages<h5>
+<h5>Languages</h5>
 <ul class="skill-list">
-	<li>Javascript</li>
-	<li>Java</li>
-	<li>Perl</li>
+	<li>TypeScript/Deno</li>
+	<li>C#</li>
 	<li>Python</li>
+	<li>Go</li>
 	<li>SQL</li>
 	<li>C</li>
 </ul>
 
-<h5>Frameworks<h5>
+<h5>Backend & Infrastructure</h5>
 <ul class="skill-list">
-	<li>Node.js</li>
-	<li>React Native</li>
-	<li>Flask</li>
-	<li>Django</li>
-	<li>PostgreSQL</li>
-	<li>MySQL</li>
-	<li>Express.js</li>
-	<li>Spring</li>
-	<li>Wiremock</li>
-	<li>Kafka</li>
-	<li>Mocha/Chai</li>
-	<li>Eureka</li>
-</ul>
-
-<h5>Environment Tools<h5>
-<ul class="skill-list">
-	<li>Git</li>
-	<li>Vim</li>
-	<li>Unix</li>
-	<li>Twilio</li>
-	<li>DigitalOcean</li>
-	<li>JIRA</li>
-	<li>Splunk</li>
-	<li>Firebase</li>
-	<li>Expo</li>
-	<li>Kibana</li>
-	<li>Jenkins</li>
-	<li>S3</li>
-	<li>EC2</li>
+	<li>Terraform</li>
+	<li>Kubernetes</li>
 	<li>Docker</li>
-	<li>Confluence</li>
+	<li>gRPC</li>
+	<li>Kafka</li>
+	<li>Redis</li>
+	<li>PostgreSQL</li>
+	<li>.NET/ASP.NET</li>
+	<li>Node.js</li>
 </ul>
 
-<h5>Human Languages<h5>
+<h5>AI/LLM Tooling</h5>
+<ul class="skill-list">
+	<li>Programmatic tool calling</li>
+	<li>MCP integrations</li>
+	<li>Claude Code</li>
+	<li>Agent harness design</li>
+</ul>
+
+<h5>Cloud & Observability</h5>
+<ul class="skill-list">
+	<li>AWS</li>
+	<li>Azure</li>
+	<li>Grafana</li>
+	<li>Loki</li>
+	<li>Prometheus</li>
+	<li>Splunk</li>
+</ul>
+
+<h5>Human Languages</h5>
 <ul class="skill-list">
 	<li>English</li>
 	<li>Russian</li>
-	<li>French</li>
+	<li>French (un peu)</li>
 </ul>
-

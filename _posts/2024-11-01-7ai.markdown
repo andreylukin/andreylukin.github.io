@@ -1,0 +1,48 @@
+---
+title: "7AI"
+season: Nov 2024 – Mar 2026
+layout: post
+date: 2024-11-01 00:00
+tag:
+headerImage: false
+projects: false
+work: true
+hidden: true # don't count this post in blog pagination
+category: project
+author: Andrey Lukin
+externalLink: false
+---
+
+**Location:** Boston, MA
+
+**Job Title:** Software Engineer
+
+**Duration:** 1 Year, 4 Months
+
+---
+
+**Summary**
+
+* Early engineer (#30) at an agentic cybersecurity startup (Greylock, CRV, Index Ventures); built core platform systems in Go, Python, and Deno from pre-launch through Fortune 500 customers and $166M in funding.
+* Redesigned the connector architecture from single-instance to multi-instance, a foundational platform change enabling customers to connect unlimited instances of any security tool across regions and introducing investigation routing logic critical to the company's multi-tenant strategy.
+* Built the config and content services (backed by GitHub and internal stores) used across all applications, reducing deploy cycles from 30+ minutes to seconds and eliminating the need for full environment redeployments.
+* Drove full platform migration off DuploCloud to Helm and Terraform-managed infrastructure, decoupled environment-specific configuration to make the stack portable across regions and compliance boundaries (EU, FedRAMP), and served as a consistent SRE contributor ensuring product uptime and reliability.
+* Built and shipped AI developer tooling across engineering: Claude Code hooks, shared prompt standards, and Cursor onboarding infrastructure, formalized into a recurring cross-team process.
+
+---
+
+**Tools Used**
+- Go
+- Python
+- TypeScript/Deno
+- Terraform
+- Kubernetes
+- Helm
+- Docker
+- gRPC
+- Kafka
+- Redis
+- PostgreSQL
+- AWS
+- Grafana
+- Prometheus

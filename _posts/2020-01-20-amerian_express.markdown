@@ -1,6 +1,6 @@
 ---
 title: "American Express"
-season: Current
+season: Jan 2020 – Jul 2022
 layout: post
 date: 2019-05-13 22:44
 tag: 
@@ -16,9 +16,9 @@ externalLink: false
 
 **Location:** NYC, NY
 
-**Job Title:** Software Engineering
+**Job Title:** Software Engineer
 
-**Duration:** 2 Years, 3 Months
+**Duration:** 2 Years, 6 Months
 
 ---
 

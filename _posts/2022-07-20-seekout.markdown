@@ -1,0 +1,40 @@
+---
+title: "SeekOut"
+season: Jul 2022 – Oct 2024
+layout: post
+date: 2022-07-20 00:00
+tag:
+headerImage: false
+projects: false
+work: true
+hidden: true # don't count this post in blog pagination
+category: project
+author: Andrey Lukin
+externalLink: false
+---
+
+**Location:** Bellevue, WA
+
+**Job Title:** Software Engineer I → II
+
+**Duration:** 2 Years, 3 Months
+
+---
+
+**Summary**
+
+* Developed and deployed a GPT-based resume parsing service, cutting parsing costs by more than half while improving reliability and transparency.
+* Revamped Enterprise data pipelines using TPL, microservices, and Databricks, processing billions of GitHub records for client search.
+* Designed a search index distribution strategy that reduced infrastructure costs by $130K in the first year.
+* Won company hackathon with an embedding-based tool for matching past candidates to new positions.
+
+---
+
+**Tools Used**
+- C#
+- .NET
+- Python
+- Databricks
+- Azure
+- SQL
+- Git

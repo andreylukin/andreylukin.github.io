@@ -1,9 +1,9 @@
 # main text of home
 name: Andrey Lukin
-bio: Software Engineer
+bio: Senior Software Engineer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Senior Software Engineer focused on backend systems, platform infrastructure, and AI/LLM tooling
 
 # if it's an external image, update below for true
 # better with square images
@@ -34,7 +34,7 @@ permalink: /:title/
 #   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: andrey.lukin.902
+# facebook: andrey.lukin.902
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -55,7 +55,7 @@ email: luk.andrey@gmail.com
 authors:
     andreylukin:
         name: Andrey Lukin
-        bio: Software Engineer
+        bio: Senior Software Engineer
         external-image: false
         picture: assets/images/profile.jpg
         # twitter: johndoe
